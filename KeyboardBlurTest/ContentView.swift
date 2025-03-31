@@ -42,7 +42,6 @@ struct ContentView: View {
     }
 }
 
-// UIVisualEffectViewのSwiftUIラッパー
 struct UIMaterialEffect: UIViewRepresentable {
     let style: UIBlurEffect.Style
 
